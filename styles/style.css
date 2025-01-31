@@ -176,6 +176,7 @@ body{
     .container{
         display: block;
         background-image: none;
+        height: 60vh;
     }
 
     .container_imagem{
